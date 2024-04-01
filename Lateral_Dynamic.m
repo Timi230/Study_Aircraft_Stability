@@ -132,8 +132,8 @@ grid on;
 
 subplot(2, 2, 4)
 plot(t, dphi_roll); 
-xlabel('\Delta \phi');
-ylabel('caca');
+xlabel('Time (s)');
+ylabel('\Delta \phi');
 title('Lateral angle');
 grid on;
 
@@ -163,8 +163,8 @@ grid on;
 
 subplot(2, 2, 4)
 plot(t, dphi_spiral); 
-xlabel('\Delta \phi');
-ylabel('caca');
+xlabel('Time (s)');
+ylabel('\Delta \phi');
 title('Lateral angle');
 grid on;
 
@@ -194,8 +194,8 @@ grid on;
 
 subplot(2, 2, 4)
 plot(t, dphi_dutch); 
-xlabel('\Delta \phi');
-ylabel('caca');
+xlabel('Time (s)');
+ylabel('\Delta \phi');
 title('Lateral angle');
 grid on;
 
